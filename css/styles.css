@@ -74,7 +74,8 @@ img {
 /*******************************************Page header*****************************************/
 
 .page-header {
-  z-index: 10;
+  width: 100%;
+  margin: auto;
   overflow: hidden;
   margin-bottom: 100px;
 }
@@ -215,15 +216,37 @@ ul.page-nav li {
 
 /***********Section one************/
 
-.section-one {
-  margin-top: 160px;
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-auto-rows: auto;
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
-  height: 75vh;
-  max-height: 560px;
-  margin-bottom: 5vh;
-  padding: 2vh;
+.main {
+  width: 1280px;
+  background-color: white;
+  padding-top: 20px;
 }
+
+.subfeature2 li {
+  border-color: #ddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.culture-item .tags a {
+  display: inline-block;
+  background-color: #c2d4d7;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+.subfeature2 li a:hover {
+  color: #f72210;
+  text-decoration: none;
+}
+
+.image-1{
+  background-image: url('../images/engineerin.PNG');
+}
+
+.image-2 {
+  background-image: url('../images/mother-child.PNG');
+}
+
