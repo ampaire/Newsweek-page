@@ -215,7 +215,7 @@ ul.page-nav li {
   text-decoration: none;
 }
 
-/***********Section one************/
+/***********main ************/
 
 .main {
   width: 1280px;
@@ -351,7 +351,6 @@ ul.page-nav li {
   display: block;
   background-size: cover;
   background-repeat: no-repeat;
-  padding-bottom: 66.75%;
 }
 
 .sponsored .category {
@@ -792,6 +791,10 @@ ul.page-nav li {
     max-width: 330px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .page-footer {
+    width: 100%;
   }
 }
 
