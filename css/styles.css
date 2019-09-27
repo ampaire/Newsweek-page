@@ -791,6 +791,16 @@ ul.page-nav li {
 @media screen and (max-width: 767px) {
   .subscribe-block .col-r .image {
     height: 160px;
+    width: 80%;
+  }
+
+  .main {
+    width: 100%;
+    background-color: white;
+    padding-top: 20px;
+  }
+  
+  .page-footer {
     width: 100%;
   }
 
