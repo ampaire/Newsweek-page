@@ -809,6 +809,15 @@ ul.page-nav li {
     background-color: white;
     padding-top: 20px;
   }
+
+  .image {
+    width: 200px;
+    margin-left: 15%;
+  }
+
+  .subscribe-image {
+    display: none;
+  }
   
   .page-footer {
     width: 100%;
