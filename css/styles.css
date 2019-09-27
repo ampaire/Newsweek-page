@@ -73,6 +73,23 @@ img {
 }
 
 /*******************************************Page header*****************************************/
+.header-middle {
+  margin-left: -16%;
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 50%;
+  padding: 10px 15px;
+}
+
+.culture-item .tags a {
+  display: inline-block;
+  background-color: #c2d4d7;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
 
 .page-header {
   width: 100%;
@@ -183,13 +200,10 @@ a:hover {
   max-width: 1310px;
 }
 
-.header-middle {
-  margin-left: -16%;
-  position: absolute;
-  z-index: 3;
-  top: 0;
-  left: 50%;
-  padding: 10px 15px;
+.subfeature2 li {
+  border-color: #ddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 ul.page-nav {
@@ -203,30 +217,17 @@ ul.page-nav {
   color: black;
 }
 
-
 ul.page-nav li {
   -webkit-flex-grow: 1;
   flex-grow: 1;
   border-left-color: #d9d9d9;
 }
 
-.page-header ul.page-nav a:hover {
-  color: #f72210;
-  text-decoration: none;
-}
-
 /***********main ************/
-
 .main {
   width: 1280px;
   background-color: white;
   padding-top: 20px;
-}
-
-.subfeature2 li {
-  border-color: #ddd;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .culture-item .tags a {
@@ -241,15 +242,6 @@ ul.page-nav li {
 .subfeature2 li a:hover {
   color: #f72210;
   text-decoration: none;
-}
-
-.culture-item .tags a {
-  display: inline-block;
-  background-color: #c2d4d7;
-  padding-left: 6px;
-  padding-right: 6px;
-  margin-right: 6px;
-  margin-bottom: 6px;
 }
 
 .subfeature2 li a:hover {
@@ -799,6 +791,11 @@ ul.page-nav li {
 }
 
 @media screen and (max-width: 767px) {
+  .image {
+    width: 200px;
+    margin-left: 15%;
+  }
+  
   .subscribe-block .col-r .image {
     height: 160px;
     width: 80%;
@@ -810,11 +807,6 @@ ul.page-nav li {
     padding-top: 20px;
   }
 
-  .image {
-    width: 200px;
-    margin-left: 15%;
-  }
-
   .subscribe-image {
     display: none;
   }
@@ -822,7 +814,7 @@ ul.page-nav li {
   .page-footer {
     width: 100%;
   }
-
+  
   .featured-story,
   .top-story,
   .opinion {
