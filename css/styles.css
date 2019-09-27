@@ -72,7 +72,7 @@ img {
   margin-left: 10px;
 }
 
-/*******************************************Page header*****************************************/
+/* ******************************************Page header**************************************** */
 
 .header-middle {
   margin-left: -16%;
@@ -224,7 +224,7 @@ ul.page-nav li {
   border-left-color: #d9d9d9;
 }
 
-/***********main ************/
+/* **********main *********** */
 
 .main {
   width: 1280px;
@@ -507,8 +507,7 @@ ul.page-nav li {
   width: 8px;
   height: 14px;
   margin-left: 10px;
-  background: url(https://g.newsweek.com/www/images/icon-arrow-right.svg)
-    center/contain no-repeat;
+  background: url(https://g.newsweek.com/www/images/icon-arrow-right.svg) center/contain no-repeat;
 }
 
 .newsletter-signup .lk {
