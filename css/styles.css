@@ -8,6 +8,7 @@
 }
 
 body {
+  overflow-x: hidden;
   font-size: 15px;
   font-family: "Roboto Condensed", sans-serif;
   line-height: 18px;
@@ -781,6 +782,12 @@ ul.page-nav li {
 }
 
 @media (max-width: 991px) and (min-width: 768px) {
+  .main {
+    width: 100%;
+    background-color: white;
+    padding-top: 20px;
+  }
+
   .sponsored {
     max-width: 330px;
     margin-left: auto;
