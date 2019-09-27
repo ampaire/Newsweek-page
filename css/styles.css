@@ -162,8 +162,7 @@ form#search-block-form--2 input {
 }
 
 form#search-block-form--2 .element-invisible {
-  background: url(https://g.newsweek.com/www/images/icon-search-glass.svg),
-    center/contain no-repeat white;
+  background: url(https://g.newsweek.com/www/images/icon-search-glass.svg), center/contain no-repeat white;
   width: 20px;
   height: 20px;
   clip: auto;
@@ -231,15 +230,6 @@ ul.page-nav li {
   width: 1280px;
   background-color: white;
   padding-top: 20px;
-}
-
-.culture-item .tags a {
-  display: inline-block;
-  background-color: #c2d4d7;
-  padding-left: 6px;
-  padding-right: 6px;
-  margin-right: 6px;
-  margin-bottom: 6px;
 }
 
 .subfeature2 li a:hover {
@@ -481,8 +471,7 @@ ul.page-nav li {
   display: block;
   width: 29px;
   height: 28px;
-  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
-    no-repeat #f72210;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
   margin-right: 10px;
   overflow: hidden;
 }
@@ -645,8 +634,7 @@ ul.page-nav li {
   line-height: 58px;
   text-indent: 5px;
   text-align: center;
-  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png)
-    0 0 / contain no-repeat;
+  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0 / contain no-repeat;
   color: #e9212e;
 }
 
