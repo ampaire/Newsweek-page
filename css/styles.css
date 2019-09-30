@@ -779,11 +779,6 @@ ul.page-nav li {
 }
 
 @media screen and (max-width: 767px) {
-  .image {
-    width: 80%;
-    margin: auto;
-  }
-
   .subscribe-block .col-r .image {
     height: 160px;
     width: 80%;
