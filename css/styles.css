@@ -712,6 +712,11 @@ ul.page-nav li {
     padding-top: 20px;
   }
 
+  .header-middle .brand {
+    height: 95px;
+    background-color: rgb(241, 4, 4);
+  }
+
   .sponsored {
     max-width: 330px;
     margin-left: auto;
@@ -729,12 +734,28 @@ ul.page-nav li {
     width: 80%;
   }
 
+  .header-middle .brand {
+    height: 95px;
+    background-color: rgb(241, 4, 4);
+  }
+
   .main {
     width: 100%;
     background-color: white;
+    padding-top: 20px;
+  }
+
+  .subscribe-image {
+    display: none;
   }
 
   .page-footer {
     width: 100%;
+  }
+
+  .featured-story,
+  .top-story,
+  .opinion {
+    position: relative;
   }
 }
