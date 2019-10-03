@@ -28,84 +28,68 @@
 </head>
 
 <body>
-    <header id="page-header" class="page-header fixed-top">
-        <div class="container position-relative">
-            <div id="header-top" class="header-top d-flex justify-content-sm--between align-items-sm-end">
-                <div class="col-md-6 d-flex">
-                    <div id="date" class="date d-none d-sm-block">Sun, Sep 15, 2019</div>
+    <div class="container_wrapper mx-auto page-header">
+        <header class="contanier-fluid page-header position-relative fixed-top">
+            <div class="row justify-content-center header-top align-items-end">
+                <div class="col d-none d-sm-none date d-md-block mx-3 pb-4"><span class="current-date">Sun, Sept 15 2019</span>
                 </div>
-                <div class="col-12 col-md-6 col-sm-7 d-flex align-items-center align-items-sm-end justify-content-sm-end">
-                    <img class="d-block d-sm-none ml-n2 w-25" src="images/favicon.ico" alt="#">
-                    <a class="item-2 d-inline d-sm-none d-md-none d-lg-block" href="#">Sign In</a>
-                    <a class="item-3 d-inline d-sm-none d-lg-block" href="#">Subscribe </a>
+                <div class="col-4 col-md-4 position-absolute brand img-fluid"><a href="#"><img src="images/h-snip.PNG" class="img-fluid"
+                            alt="newsweek logo"></a></div>
+                <div class="col btn-col d-flex position-absolute nav-button">
+
+                    <button type="button"
+                        class="btn float-right subscribe-btn text-danger bg-white mx-3 mb-4 pb-1">SUBSCRIBE </button>
+                    <button type="button" class="btn float-right mr-2 signin-btn text-white pb-4">SIGN IN</button>
+
                 </div>
             </div>
-            <div id="header-middle" class="header-middle position-absolute">
-                <a id="brand" class="brand d-none d-sm-block" href="#">
-                    <img src="images/h-snip.PNG" alt="">
-                </a>
-                <span class="genericon genericon-menu">
-                    <span></span>
-                </span>
-            </div>
-            <nav id="header-bottom" class="header-bottom d-none d-lg-block">
-                <div class="d-md-flex justify-content-center">
-                    <form action="#" id="search-block-form--2">
-                        <div>
-                            <div class="container-inline">
-                                <div class="form-item form-type-textfield form-item-search-block-form">
-                                    <label class="element-invisible position-absolute"
-                                        for="edit-search-block-form--4">Search </label>
-                                    <input title="Enter the terms you wish to search for." placeholder="Search"
-                                        type="text" id="edit-search-block-form--4" name="search_block_form" value=""
-                                        size="15" maxlength="128" class="form-text position-absolute">
-                                </div>
-                                <div class="form-actions form-wrapper" id="edit-actions--2">
-                                    <input type="submit" id="edit-submit--2">
-                                </div>
-                                <input type="hidden">
-                                <input type="hidden">
-                                <input type="hidden">
-                            </div>
-                        </div>
-                    </form>
+
+            <nav class="row navbar-light bg-light header-bottom d-none hidden-lg-down d-lg-block">
+                <div class="col nav">
                     <ul class="page-nav d-flex justify-content-center w-100">
                         <li class="first leaf text-center">
                             <a href="#" title="">U.S.</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">World</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Business</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Tech &amp; Science</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Culture</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Newsgeek</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Sports</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Health</a>
                         </li>
-                        <li class="lower_nav_item border-left text-center">
+                        <li class="leaf border-left text-center">
                             <a href="#" title="">Opinion</a>
                         </li>
-                        <li class="last lower_nav_item text-center">
-                            <a href="#" title="">Vantage.</a>
+                        <li class="last leaf text-center">
+                            <a href="#" title="">Vantage</a>
                         </li>
+                        <li class="nav-item p-relative">
+                            <form class="form-inline my-2 my-lg-0">
+                                <input class="form-control mr-sm-1 search-bar" type="search" placeholder="Search"
+                                    aria-label="Search"> <i class="fa fa-search"></i>
+                            </form>
+                        </li>
+
                     </ul>
+
                 </div>
-                <div id="suggestions_container1 position-absolute" class="marketplace-suggestion"></div>
             </nav>
-        </div>
-    </header>
+        </header>
+    </div>
 
     <main class="mt-5">
         <div class="main container-fluid mt-5">
