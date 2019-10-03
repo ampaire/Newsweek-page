@@ -45,7 +45,6 @@ img {
   width: 100%;
 }
 
-
 a:hover {
   color: inherit;
   text-decoration-color: #f72210;
@@ -643,7 +642,7 @@ ul.page-nav li {
     left: 200px;
     bottom: 30px;
   }
-
+  
   .sponsored {
     max-width: 330px;
     margin-left: auto;
