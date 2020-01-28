@@ -7,7 +7,7 @@ The aim of the project was to create a page that imitates the [Newsweek page](ht
 Imitates the [Newsweek page](https://www.newsweek.com/) 
 
 
-### BUILT WITH
+### TECHNOLOGIES
 Built with HTML and CSS(bootstrap)
 
 
