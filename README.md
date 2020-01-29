@@ -8,7 +8,7 @@ Imitates the [Newsweek page](https://www.newsweek.com/)
 
 
 ### TECHNOLOGIES
-Built with HTML and CSS(bootstrap)
+- HTML and CSS(bootstrap)
 
 
 ### SETTING UP
