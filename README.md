@@ -1,8 +1,8 @@
 ﻿# Newsweek-page
 Microverse Html &amp; Css project 2019
 
-Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics
-The aim of the project was to create a page that imitates the [Newsweek page](https://www.newsweek.com/) in purely HTML and CSS/ bootstrap. 
+[Newsweek](https://www.newsweek.com/) provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics
+The aim of the project was to create a clone of this page in purely HTML and CSS/ bootstrap. 
 
 ### FEATURES
 Imitates the [Newsweek page](https://www.newsweek.com/) 
