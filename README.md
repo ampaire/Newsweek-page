@@ -20,7 +20,7 @@ Imitates the [Newsweek page](https://www.newsweek.com/).
 2. Run the index.html page in your favorite browser
 
 ### USING THE PROJECT
-Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/index.html)  to go to the live preview 
+Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/index.html)  to look at the live preview 
 
 ### AUTHORS
 [AMPAIRE PHEMIA](https://github.com/ampaire)
