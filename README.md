@@ -25,3 +25,4 @@ Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/i
 
 ### AUTHORS
 [AMPAIRE PHEMIA](https://github.com/ampaire)
+https://www.linkedin.com/in/phemia/
