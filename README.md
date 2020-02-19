@@ -27,4 +27,4 @@ Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/i
 ### AUTHORS
 - Github-> [@ampaire](https://github.com/ampaire)
 - Twitter-> [@AmpaPhem](https://twitter.com/AmpaPhem)
-- LinkedIn-> [Ampaire Phemia](https://www.linkedin.com/in/phemia)
+- LinkedIn-> [@Phemia](https://www.linkedin.com/in/phemia)
