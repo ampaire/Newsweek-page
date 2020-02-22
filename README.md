@@ -22,7 +22,7 @@ Imitates the [Newsweek page](https://www.newsweek.com/).
 3. You can alternatively, launch the live server if you have the live server extension installed.
 
 ### LIVE LINK
-Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/index.html)  to look at the live preview.
+Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/index.html)  to see the live preview.
 
 ### AUTHOR
 Github - [@ampaire](https://github.com/ampaire)
