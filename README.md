@@ -17,7 +17,7 @@ Imitates the [Newsweek page](https://www.newsweek.com/).
 1. Clone this repository
     ``https://github.com/ampaire/Newsweek-page/ft-homepage.git``
 
-2. Run the ``index.html`` page in your favorite browser.
+2. Open the ``index.html`` page in your favorite browser.
 
 3. You can alternatively, launch the live server if you have the live server extension installed.
 
