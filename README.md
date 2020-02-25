@@ -1,7 +1,7 @@
 ﻿# Newsweek-page Clone
 
 [Newsweek](https://www.newsweek.com/) is an online webpage that provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.
-The aim of the project was to create a clone of this page in HTML and CSS/ bootstrap. 
+The aim of the project was to create a clone of this page in HTML and CSS(bootstrap). 
 
 ### FEATURES
 Imitates the [Newsweek page](https://www.newsweek.com/).
