@@ -24,6 +24,7 @@ Imitates the [Newsweek page](https://www.newsweek.com/).
 ### LIVE LINK
 Click on this [link](https://raw.githack.com/ampaire/Newsweek-page/ft-homepage/index.html)  to see the live preview.
 
+### ACKNOWLEDGMENTS
 ### AUTHOR
 Github - [@ampaire](https://github.com/ampaire)
 
